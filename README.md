@@ -1,5 +1,4 @@
 # portfolio-part-4-mdazizulaman
-# Name: MD AZIZUL HOQUE ID: 46769579
 # Heart Stroke Dataset
 # Introduction
 In this portfolio we were told to pick a dataset on our own to work on to resolve what we have learned till now. We are given instructions on how to choose a dataset and what to do to. We are also given a list of suggestion which outlines working areas.
