@@ -1,0 +1,25 @@
+This page contains the requirements for portfolio 4. For this portfolio 4, we will not provide the dataset and questions you need to solve. The problem you work on in this portfolio 4 is open. You can choose the data sources you prefer and identify the problem worthy study by yourselves. Note that you need to explicitly introduce your data source and briefly describe your data in your notebook. Meanwhile, you need to meet the following requirement in your portfolio 4 notebook file. 
+
+The core requirements of the portfolio 4 are:
+
+(2 marks) Propose well-defined questions or purposes to the analysis
+(2 marks) It should involve some data preparation and exploration. (Suggestion: The source address of the dataset can be provided to make our marking easy. Alternatively.  you can upload the dataset or a sampled subset to your Github repo.)
+(2 marks) You will make use of at least one or more analysis/prediction techniques learned from the unit since week 7.
+(2 marks) Develop some kind of visualisation of the data or results
+Further instructions on these requirements:
+
+Requirement 2: You may find Kaggle and UCI  useful as sources of data. But, you need to conduct data exploration: e.g. variable identification, univariate analysis, bi-variate analysis, missing value treatment etc. Some suggested data sources can be found from this link. We also encourage you to find other data sources for your portfolio 4 by yourself. 
+
+For requirement 3 you are encouraged to use more than one analysis technique. For example, you might use clustering to find groups within the data and then perform a linear regression on some variables within the groups. Or, you might use logistic regression to establish a baseline classification performance and then apply a neural network to see if you can improve performance. 
+
+Requirement 4 can be involved in any part of the project, such as data itself, data exploration, and data analysis. You may use a bar to visualise a categorical variable or a histogram for a numerical variable.
+
+Note that you need to include necessary instructions and explanations in your notebook file to demonstrate that you have met these requirements. 
+
+Here are a few suggestions for your portfolio 4:
+
+Make use of linear regression as a predictive model and improve it using polynomial regression. Find important features using the RFE technique.
+Make use of various classification/prediction/clustering techniques from the unit
+Use various criteria (or metrics) for evaluation: e.g. use of Mean Square Error (MSE), Mean Absolute Error (MAE), and R-squared (r2) for regression problem. Use of accuracy, F-score, Area Under the ROC curve (AUC) for classification problem.
+First, implement a simple algorithm (or model) as a baseline and then improve the baseline using more complex models/techniques.
+Do parameter analysis to find out which configuration of parameters gives the best model’s performance. For example, the performance under different k for the KNN algorithm.
